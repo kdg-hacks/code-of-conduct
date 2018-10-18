@@ -21,9 +21,9 @@
 
 私達は参加者がハッカソン会場、またハッカソンに関連したソーシャルネットワークやソーシャルイベントにて、このルールに従うことを望みます。
 
-原文ソースとクレジット：
-http://2012.jsconf.us/#/about & The Ada Initiative
-http://ja.confcodeofconduct.com & 会議での行動規範
+原文ソースとクレジット：<br>
+http://2012.jsconf.us/#/about & The Ada Initiative<br>
+http://ja.confcodeofconduct.com & 会議での行動規範<br>
 この作品は上記をべースに改修し、Creative Commons Attribution 3.0 Unported License でライセンスされています。
 
 © 2018 KDDI DIGITAL GATE HACKS
